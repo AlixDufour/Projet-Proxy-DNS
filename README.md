@@ -13,6 +13,8 @@ Il a été entièrement réalisé en langage C avec git et sublime-text.
 
 ## Notes et consignes 
 
+Se placer dans le répertoire "etape5" pour la version finale du projet puis taper "make" et enfin lancer la commande souhaitée.
+
 Le fichier d sortie par défaut pour la stratégie 1 est nommé default_output
 
 ### Pour effectuer les tests unitaires des librairies :
